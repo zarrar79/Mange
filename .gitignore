@@ -1,0 +1,4 @@
+.vercel
+node_modules
+tailwind.config.js
+index.css
