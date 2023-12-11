@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "builds": "[my-framework] build --output public",
+    "builds": "tailwindcss build --output public",
     "build": "tailwindcss -i ./index.css -o ./CSS/index.css",
     "watch": "tailwindcss -i ./index.css -o ./CSS/index.css --watch"
   },
